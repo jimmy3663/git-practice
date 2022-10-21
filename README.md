@@ -1,1 +1,3 @@
-# git-practice
+# git-practic
+
+feature1 commit
